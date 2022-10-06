@@ -1,0 +1,93 @@
+.bg-bl {
+    background-color: white;
+}
+
+.bg-ne {
+    background-color: black;
+}
+
+.bg-ro {
+    background-color: red;
+}
+
+.bg-ve {
+    background-color: green;
+}
+
+.bg-gr {
+    background-color: grey;
+}
+
+.bg-az {
+    background-color: blue;
+}
+
+.mg-1x {
+    margin: 1em;
+}
+
+.mg-2x {
+    margin: 2em;
+}
+
+.mg-3x {
+    margin: 3em;
+}
+
+.pd-1x {
+    padding: 1em;
+}
+
+.pd-2x {
+    padding: 2em;
+}
+
+.pd-3x {
+    padding: 3em;
+}
+
+.alt1 {
+    height: 100px;
+}
+
+.alt2 {
+    height: 200px;
+}
+
+.alt3 {
+    height: 300px;
+}
+
+.divImagen {
+    background-image: url(../img/paisaje.jpg);
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: cover;
+}
+
+.divImagen h1 {
+    color: blue;
+    margin-top: 100px;
+}
+
+.fl {
+    float: right;
+}
+
+.articulo {
+    padding: 10px;
+}
+
+.foto {
+    width: 100%;
+
+}
+
+.letras {
+    font-size: 10px;
+}
+
+.centrar {
+    text-align: center;
+    margin: 80px 0px;
+}
